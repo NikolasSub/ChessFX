@@ -31,7 +31,7 @@
         </MenuBar>
         <ToolBar>
           <items>
-            <Button fx:id="button" mnemonicParsing="false" onAction="#onPress" onKeyPressed="#onKeyPress" text="Button" />
+            <Button fx:id="button" mnemonicParsing="false" onAction="#onPress" onKeyPressed="#onKeyPress" text="New Game" />
           </items>
         </ToolBar>
         <SplitPane dividerPositions="0.5" focusTraversable="true" prefHeight="160.0" prefWidth="200.0" VBox.vgrow="ALWAYS">
